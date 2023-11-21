@@ -1,0 +1,4 @@
+chinese-chess
+node_modules
+
+*.lock
